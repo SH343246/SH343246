@@ -1,4 +1,4 @@
-# Hey, I'm Shafai 👋
+# Hey, I'm Shafai 
 
 Software engineer focused on full-stack and backend development.
 I am currently building things that handle real data in real time.
